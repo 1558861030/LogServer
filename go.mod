@@ -1,4 +1,4 @@
-module LogServer
+module github.com/1558861030/LogToLogServer
 
 go 1.18
 
